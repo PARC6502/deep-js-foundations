@@ -1,0 +1,6 @@
+# Deep Javascript Foundations
+
+***
+
+### Closure
+
